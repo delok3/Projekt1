@@ -3,8 +3,8 @@ package cistan;
 public class mainclass {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+			class1 klasa = new class1();
+			klasa.tellme();
 	}
 
 }
